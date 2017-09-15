@@ -4,4 +4,6 @@ pppp
 Pasta
 tacos
 egg
+sushi
+sashimi
 
